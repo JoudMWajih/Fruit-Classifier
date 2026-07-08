@@ -28,6 +28,9 @@ The model was trained using a fruit image dataset from Kaggle.
 Dataset:
 [https://www.kaggle.com/datasets/moltean/fruits](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
 
+## Screenshot
+
+
 ## Author
 **Joud Majed Wajih**  
 Artificial Intelligence Student / 
