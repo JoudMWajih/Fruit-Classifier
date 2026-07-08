@@ -29,7 +29,7 @@ Dataset:
 [https://www.kaggle.com/datasets/moltean/fruits](https://www.kaggle.com/datasets/utkarshsaxenadn/fruits-classification)
 
 ## Screenshot
-![Application Screenshot](images/output.png)
+![Application Screenshot](output.png)
 
 ## Author
 **Joud Majed Wajih**  
